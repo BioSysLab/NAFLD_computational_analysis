@@ -12,9 +12,3 @@ This repository contains the image analysis algorithm for the quantification of 
 The algorithm was created in MATLAB (v.2018a) by Prof. George K. Matsopoulos and Konstantinos Zeakis from BIOMIG lab ( https://biomig.ntua.gr/ ), at the School of Electrical Engineering, National Technical University of Athens, Athens, Greece.
 
 Full usage and distribution rights were given to the BioSysLab.
-
-Danae Stella Zareifi a , Odysseas Chaliotis a , Nafsika Chala a , Maria Sofotasiou a , Konstantinos
-Zeakis b , Eirini Pantiora c , Antonis Vezakis c , George K. Matsopoulos b , Georgios Fragulidis c , Leonidas
-G Alexopoulos a,d
-
-<sup>1(+)</sup>
