@@ -8,7 +8,7 @@
 (*)Correspondence to: leo@mail.ntua.gr
 
 # Abstract
-![272243390_2742554292706273_5589255357060810285_n](https://user-images.githubusercontent.com/48244638/151409000-e79eb71e-6bed-4110-b0c9-933f63710c5c.png,{width=40px height=400px})
+< img src="https://user-images.githubusercontent.com/48244638/151409000-e79eb71e-6bed-4110-b0c9-933f63710c5c.png" width=400)
 
 Non-Alcoholic Fatty Liver Disease (NAFLD) is among the most common liver pathologies, however, none approved condition-specific therapy yet exists. The present study introduces a drug repositioning (DR) approach that combines in vitro steatosis models with a network-based computational platform, constructed upon genomic data from diseased liver biopsies and compound-treated cell lines, to propose effectively repositioned therapeutic compounds. The introduced in silico approach screened 20'000 compounds, whilst complementary in vitro and proteomic assays were developed to test the efficacy of the 46 in silico predictions. This approach successfully identified 6 compounds, including the known anti-steatogenic drugs Resveratrol and Sirolimus. In short, Gallamine triethiotide, Diflorasone, Fenoterol and Pralidoxime ameliorate steatosis similarly to Resveratrol/Sirolimus. The implementation holds great potential in reducing screening time in the early drug discovery stages and in delivering promising compounds for in vivo testing.
 This repository contains the image analysis algorithm for the quantification of the lipid accumulation, regarding the current study.
